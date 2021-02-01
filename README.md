@@ -1,3 +1,6 @@
+Hi there! 👋 Welcome to my github page! You can find a bunch of projects I am working on, I dont have a major project rather a bunch of side ones! 
+<hr>
+
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/ElijahRus250?label=Followers&style=for-the-badge&color=blue">
   <a href="https://discord.gg/mMFv3jYtsq" alt="Discord">
@@ -14,7 +17,8 @@
   <a href="https://github.com/ElijahRus250">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ElijahRus250&show_icons=true&title_color=fff&icon_color=428af5&text_color=9f9f9f&bg_color=151515">
   </a>
-  <br>
+  <hr>
+
   <a href="https://github.com/ElijahRus250">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahRus250&layout=compact&title_color=fff&icon_color=428af5&text_color=9f9f9f&bg_color=151515">
   </a>
