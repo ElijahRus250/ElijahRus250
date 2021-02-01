@@ -15,6 +15,6 @@ Hi there! 👋 Welcome to my github page! You can find a bunch of projects I am 
 
 <h2 align="center">
   <a href="https://github.com/ElijahRus250">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ElijahRus250&show_icons=true&title_color=fff&icon_color=428af5&text_color=9f9f9f&bg_color=151515">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ElijahRus250&show_icons=true&title_color=fff&icon_color=428af5&text_color=9f9f9f&bg_color=000000">
   </a>
   <hr>
